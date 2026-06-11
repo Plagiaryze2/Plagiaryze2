@@ -1,47 +1,53 @@
 ### Hello, I'm Muhammad Anas.
 
-I am a Software Engineering student (BSE, Batch of 2028) at **FAST NUCES, Lahore**. I build desktop applications, enterprise database systems, full-stack web applications, and experiment with low-level systems programming.
+I am a Software Engineering student (BSE, Batch of 2028) at **FAST NUCES, Lahore**. I build full-stack web applications, desktop clients, and experiment with low-level systems programming.
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Projects (Own Repositories)
 
 #### 📦 [IMS - Inventory Management System](https://github.com/Plagiaryze2/IMS)
-An enterprise-grade full-stack web application designed for managing inventory, tracking transactions, and generating reports.
+A full-stack inventory management web application for tracking warehouse transactions, stock levels, and generating dynamic PDF reports.
 - **Tech Stack**: React (Vite, Tailwind CSS, Recharts, jsPDF), Node.js (Express, JWT, bcryptjs), Microsoft SQL Server (`mssql`)
-- **Highlights**: Relational database schema with complex queries, role-based JWT authentication, interactive dashboard charts, and automatic PDF receipt generation.
+- **Highlights**: Role-based JWT authentication, dashboard analytics, and custom PDF receipt generation.
 
 #### 🏦 [Banking System](https://github.com/Plagiaryze2/Banking-System)
-A desktop banking client application simulating account creation, transfers, loans, ATM functions, and admin management.
+A desktop client application simulating real-world banking operations, ATM card management, and admin oversight.
 - **Tech Stack**: C#, .NET Framework 4.8, Windows Forms (WinForms)
-- **Highlights**: Refactored modular directory structure (Models, Admin, Client, Loans, ATM, History) and custom file-based data persistence.
+- **Highlights**: Modular layout organization (Models, Admin, Client, Loans, ATM, History) with file-based persistence.
 
 #### 🏎️ [8086 Assembly Car Racing Game](https://github.com/Plagiaryze2/Assembly-Car-Racing-Game)
-A retro 16-bit DOS game that bypasses BIOS print calls to write assets directly to the display buffer and hooks native CPU interrupts.
+A retro 16-bit DOS game with dynamic starting animation, direct memory write to segment `0xB800` for rendering, and custom interrupt hooking.
 - **Tech Stack**: 8086 Assembly, NASM, DOSBox
-- **Highlights**: Custom timer (`ISR 08h`) and keyboard (`ISR 09h`) interrupt handlers, double buffering, and custom LCG pseudo-random seed generator.
+- **Highlights**: Custom timer (`ISR 08h`) and keyboard (`ISR 09h`) interrupt handlers, double buffering, and custom LCG pseudo-random generator.
 
-#### 📄 [Rozgar Pakistan - E-Resume Builder](https://github.com/Plagiaryze2/DB-Lab8)
-A web platform built for creating and exporting professional CVs, integrated with a database backend.
-- **Tech Stack**: React, Node.js, SQL Server
-- **Highlights**: Database Systems Lab (CL-2005) project focused on CRUD integration, schema normalization, and dynamic user updates.
+---
+
+### 🤝 Contributions & Team Projects
+
+#### 🎓 [Intellecta](https://github.com/Hasan-Butt/Intellecta) (Contributor)
+A gamified student focus and learning platform featuring dynamic quizzes, sectional XP progression, global/sectional leaderboards, and distraction logs.
+- **My Contributions**: Developed the login/signup validation flows, integrated Google OAuth, set up backend JWT token auth and route protection, and implemented frontend UI components for the Quiz page, leaderboards, peer comparisons, and distraction heatmaps.
+
+#### 🤖 [Loan Chatbot](https://github.com/Hasan-Butt/LoanChatbot-Project404) (Contributor)
+A console-based interactive C++ chatbot built using the Scrum framework, designed to process loan applications and verify user eligibility metrics.
+- **My Contributions**: Collaborated on core input validation modules, keyword parsing algorithms, and dynamic file logging interfaces for user interactions.
 
 ---
 
 ### 🛠️ Toolbox
 
 - **Languages**: C#, C++, JavaScript, 8086 Assembly (Intel syntax)
-- **Frontend**: React (Vite), HTML5/CSS3, Tailwind CSS
-- **Backend**: Node.js (Express), RESTful APIs
+- **Web Stack**: React, Node.js (Express), RESTful APIs, JWT, Tailwind CSS
 - **Databases**: Microsoft SQL Server (T-SQL, schema design)
 - **Tools**: Git/GitHub, Visual Studio, VS Code, NASM, DOSBox, AFD Debugger
-- **Methodology**: Object-Oriented Programming (OOP), Data Structures (Lists, Trees, Graphs), Hardware Interrupt Hooking, JWT Authentication
+- **Methodologies**: Scrum, Object-Oriented Programming (OOP), Data Structures, Direct Memory Writing
 
 ---
 
 ### 📬 Academic Info & Connection
 
 - **Institution**: FAST National University of Computer and Emerging Sciences, Lahore Campus
-- **Degree**: BS Software Engineering (BSE), Class of 2028
+- **Degree**: BS Software Engineering (BSE), Batch of 2028
 - **Location**: Lahore, Pakistan
 - **GitHub**: [@Plagiaryze2](https://github.com/Plagiaryze2)
