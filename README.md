@@ -98,8 +98,8 @@
 ### 📈 Contribution Streak & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&hide_title=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats" alt="GitHub Stats" width="49%" height="195" />
 </p>
 
 <p align="center">
