@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hello, World! I'm Muhammad Anas 👋
+# ⚡ Hello, I'm Muhammad Anas 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+FAST+NUCES;Full-Stack+Web+%26+Desktop+Developer;Low-Level+Systems+%26+8086+Assembly+Dev" alt="Typing SVG" />
@@ -41,23 +41,23 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### 🗄️ Databases & Environments
 <p>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/DOSBox-000000?style=for-the-badge&logo=dosbox&logoColor=white" alt="DOSBox" />
+  <img src="https://img.shields.io/badge/DOSBox-2D3748?style=for-the-badge&logo=dosbox&logoColor=white" alt="DOSBox" />
   <img src="https://img.shields.io/badge/NASM-02569B?style=for-the-badge&logo=gnu&logoColor=white" alt="NASM" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -128,8 +128,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/github-contribution-grid-snake.svg)
 
-*(Note: Can be automatically updated daily using GitHub Actions)*
-
 </div>
 
 ---
@@ -144,7 +142,7 @@
 
 <p>
   <a href="https://github.com/Plagiaryze2">
-    <img src="https://img.shields.io/badge/GitHub-Plagiaryze2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Plagiaryze2-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
