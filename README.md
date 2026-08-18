@@ -27,7 +27,7 @@ A retro 16-bit DOS game with dynamic starting animation, direct memory write to 
 
 #### 🎓 [Intellecta](https://github.com/Hasan-Butt/Intellecta) (Contributor)
 A gamified student focus and learning platform featuring dynamic quizzes, sectional XP progression, global/sectional leaderboards, and distraction logs.
-- **My Contributions**: Developed the login/signup validation flows, integrated Google OAuth, set up backend JWT token auth and route protection, and implemented frontend UI components for the Quiz page, leaderboards, peer comparisons, and distraction heatmaps.
+- **My Contributions**: Developed the login/signup validation flows, integrated Google OAuth, set up backend JWT token auth and route protection, and implemented frontend and backend UI components for the Quiz page, leaderboards, peer comparisons, and distraction heatmaps.
 
 #### 🤖 [Loan Chatbot](https://github.com/Hasan-Butt/LoanChatbot-Project404) (Contributor)
 A console-based interactive C++ chatbot built using the Scrum framework, designed to process loan applications and verify user eligibility metrics.
