@@ -31,8 +31,11 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/8086_Assembly-4D4D4D?style=for-the-badge&logo=cpu&logoColor=white" alt="Assembly" />
 </p>
@@ -50,6 +53,8 @@
 ### 🗄️ Databases & Environments
 <p>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/DOSBox-2D3748?style=for-the-badge&logo=dosbox&logoColor=white" alt="DOSBox" />
   <img src="https://img.shields.io/badge/NASM-02569B?style=for-the-badge&logo=gnu&logoColor=white" alt="NASM" />
 </p>
@@ -60,6 +65,8 @@
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
@@ -98,8 +105,8 @@
 ### 📈 Contribution Streak & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" height="195" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats" alt="GitHub Stats" width="49%" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
