@@ -106,11 +106,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495&count_private=true" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Plagiaryze2&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Plagiaryze2&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Languages" width="45%" />
 </p>
 
 ### 📉 Contribution Activity Graph
