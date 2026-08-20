@@ -106,10 +106,6 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
 ### 📈 Overall Metrics & Languages
 
 <p align="center">
