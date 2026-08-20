@@ -113,7 +113,7 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 ### 📈 Overall Metrics & Languages
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="95%" />
+  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/master/github-metrics.svg" alt="GitHub Metrics" width="95%" />
 </p>
 
 ### 📉 Contribution Activity Graph
