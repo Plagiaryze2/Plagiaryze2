@@ -30,6 +30,7 @@
 ## 🛠️ Technical Stack & Toolbox
 
 ### 💻 Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -41,6 +42,7 @@
 </p>
 
 ### 🌐 Web & Backend Development
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -51,6 +53,7 @@
 </p>
 
 ### 🗄️ Databases & Environments
+
 <p>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -60,6 +63,7 @@
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -73,25 +77,29 @@
 
 ## 📦 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📦 **[IMS - Inventory Management](https://github.com/Plagiaryze2/IMS)** | Full-stack inventory web app for tracking warehouse stock, transaction metrics, and dynamic PDF receipt generation. | `React`, `Node.js`, `Express`, `MS SQL Server`, `JWT`, `jsPDF`, `Tailwind` |
-| 🏦 **[Banking System](https://github.com/Plagiaryze2/Banking-System)** | Modular desktop banking client supporting ATM workflows, admin controls, loan processing, and file-based state persistence. | `C#`, `.NET Framework 4.8`, `WinForms` |
-| 🏎️ **[8086 Assembly Car Racing Game](https://github.com/Plagiaryze2/Assembly-Car-Racing-Game)** | Retro 16-bit DOS game featuring direct VRAM writing (`0xB800`), custom interrupt handlers (`ISR 08h`/`ISR 09h`), and double buffering. | `8086 Assembly`, `NASM`, `DOSBox`, `AFD Debugger` |
+| Project                                                                                         | Description                                                                                                                            | Tech Stack                                                                 |
+| :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| 📦 **[IMS - Inventory Management](https://github.com/Plagiaryze2/IMS)**                         | Full-stack inventory web app for tracking warehouse stock, transaction metrics, and dynamic PDF receipt generation.                    | `React`, `Node.js`, `Express`, `MS SQL Server`, `JWT`, `jsPDF`, `Tailwind` |
+| 🏦 **[Banking System](https://github.com/Plagiaryze2/Banking-System)**                          | Modular desktop banking client supporting ATM workflows, admin controls, loan processing, and file-based state persistence.            | `C#`, `.NET Framework 4.8`, `WinForms`                                     |
+| 🏎️ **[8086 Assembly Car Racing Game](https://github.com/Plagiaryze2/Assembly-Car-Racing-Game)** | Retro 16-bit DOS game featuring direct VRAM writing (`0xB800`), custom interrupt handlers (`ISR 08h`/`ISR 09h`), and double buffering. | `8086 Assembly`, `NASM`, `DOSBox`, `AFD Debugger`                          |
 
 ---
 
 ## 🤝 Open Source & Team Contributions
 
 ### 🎓 [Intellecta](https://github.com/Hasan-Butt/Intellecta)
-*A gamified student focus and learning platform with dynamic quizzes, section XP progression, global leaderboards, and distraction logs.*
+
+_A gamified student focus and learning platform with dynamic quizzes, section XP progression, global leaderboards, and distraction logs._
+
 - **Key Contributions**:
   - Implemented secure login/signup validation flows & Google OAuth integration.
   - Architected backend JWT token authentication & protected API route middleware.
   - Developed frontend & backend modules for Quiz UI, global leaderboards, peer comparisons, and distraction heatmaps.
 
 ### 🤖 [Loan Chatbot](https://github.com/Hasan-Butt/LoanChatbot-Project404)
-*An interactive console-based C++ chatbot built following the Scrum framework to automate loan application screening.*
+
+_An interactive console-based C++ chatbot built following the Scrum framework to automate loan application screening._
+
 - **Key Contributions**:
   - Built core input validation modules and keyword parsing logic.
   - Designed dynamic file logging interfaces for tracking user interaction logs.
@@ -105,18 +113,14 @@
 ### 📈 Contribution Streak & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495&count_private=true" alt="GitHub Stats" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Plagiaryze2&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Languages" width="45%" />
+  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/streak.svg" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/metrics.svg" alt="Detailed GitHub Metrics" width="95%" />
 </p>
 
 ### 📉 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/activity-graph.svg" alt="Activity Graph" width="95%" />
 </p>
 
 </div>
@@ -149,7 +153,7 @@
 
 🏛️ **FAST National University of Computer and Emerging Sciences, Lahore**  
 🎓 **Degree**: BS Software Engineering (BSE, Batch of 2028)  
-📍 **Location**: Lahore, Pakistan  
+📍 **Location**: Lahore, Pakistan
 
 <p>
   <a href="https://github.com/Plagiaryze2">
