@@ -110,15 +110,10 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 
 <div align="center">
 
-### 📈 Contribution Streak & Metrics
+### 📈 Overall Metrics & Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495&count_private=true" alt="GitHub Stats" width="49%" />
-</p>
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Detailed GitHub Metrics" width="95%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="95%" />
 </p>
 
 ### 📉 Contribution Activity Graph
@@ -134,13 +129,6 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-```cat
-┌─────────────────────────────────────────────────────────┐
-│              Eating my contribution graph...            │
-└─────────────────────────────────────────────────────────┘
-```
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/github-contribution-grid-snake.svg">
