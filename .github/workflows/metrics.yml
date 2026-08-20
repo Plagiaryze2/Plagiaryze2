@@ -22,9 +22,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # 1. Streak Stats (Token-Authenticated)
+      # 1. Token-Authenticated Streak Stats
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.4.0
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           user: Plagiaryze2
           token: ${{ secrets.METRICS_TOKEN }}
@@ -32,16 +32,7 @@ jobs:
           hide_border: "true"
           output: "dist/streak.svg"
 
-      # 2. Activity Graph (Token-Authenticated)
-      - name: Generate Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@lts
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          target_user: Plagiaryze2
-          theme: tokyo-night
-          output: "dist/activity-graph.svg"
-
-      # 3. Detailed Metrics & Top Languages (Token-Authenticated)
+      # 2. Token-Authenticated Full Metrics
       - name: Generate Detailed Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -56,7 +47,7 @@ jobs:
           plugin_languages_details: percentage
           filename: "dist/metrics.svg"
 
-      # 4. Deploy all generated SVGs to output branch
+      # 3. Deploy generated SVGs to output branch
       - name: Deploy Generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
