@@ -1,4 +1,4 @@
-name: Generate Profile Metrics & Analytics
+name: Generate Profile Metrics
 
 on:
   schedule:
@@ -14,26 +14,12 @@ on:
       - master
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # 1. Token-Authenticated Streak Stats
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
-        with:
-          user: Plagiaryze2
-          token: ${{ secrets.METRICS_TOKEN }}
-          theme: tokyo-night
-          hide_border: "true"
-          output: "dist/streak.svg"
-
-      # 2. Token-Authenticated Full Metrics
-      - name: Generate Detailed Metrics
+      - name: Generate Profile Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -45,13 +31,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          filename: "dist/metrics.svg"
-
-      # 3. Deploy generated SVGs to output branch
-      - name: Deploy Generated SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes

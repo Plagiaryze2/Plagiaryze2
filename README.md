@@ -113,8 +113,12 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 ### 📈 Contribution Streak & Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/streak.svg" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/Plagiaryze2/Plagiaryze2/output/metrics.svg" alt="Detailed GitHub Metrics" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Plagiaryze2&show_icons=true&theme=tokyo-night&hide_border=true&custom_title=Overall%20Stats&card_width=495&count_private=true" alt="GitHub Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Detailed GitHub Metrics" width="95%" />
 </p>
 
 ### 📉 Contribution Activity Graph
