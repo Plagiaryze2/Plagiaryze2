@@ -115,7 +115,7 @@ _An interactive console-based C++ chatbot built following the Scrum framework to
 ### 📉 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph-mocha.vercel.app/graph?username=Plagiaryze2&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 </div>
